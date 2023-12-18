@@ -198,9 +198,12 @@ $ git config --global user.email 'ani.l.ap.1112@gmail.com'
 python05@cab120 MINGW64 /
 $ git config --global user.email
 ani.l.ap.1112@gmail.com
-
 python05@cab120 MINGW64 /
-$
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+python05@cab120 MINGW64 /
+$ start .
+//direct us to git folder location in computer Drive
 
 
 
