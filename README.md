@@ -175,3 +175,37 @@ tuple()-Returns a tuple
 type()-Returns the type of an object
 vars()-Returns the __dict__ property of an object
 zip()-Returns an iterator, from two or more iterators
+
+GIT HUB INSTALLATION AND GIT BASH COMMANDS
+
+
+python05@cab120 MINGW64 /
+$ git config --global user.name
+
+python05@cab120 MINGW64 /
+$ git config --global user.name 'anilnadipannagari'
+
+python05@cab120 MINGW64 /
+$ git config --global user.name
+anilnadipannagari
+
+python05@cab120 MINGW64 /
+$ git config --global user.email
+
+python05@cab120 MINGW64 /
+$ git config --global user.email 'ani.l.ap.1112@gmail.com'
+
+python05@cab120 MINGW64 /
+$ git config --global user.email
+ani.l.ap.1112@gmail.com
+
+python05@cab120 MINGW64 /
+$
+
+
+
+
+
+
+
+
