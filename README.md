@@ -206,15 +206,16 @@ $ start .
 //direct us to git folder location in computer Drive
 
 **git commands for initializing the file and status of he git**
-$ git init
-Initialized empty Git repository in C:/Users/TEMP/Desktop/PYHTON 15 DAYS/.git/
+$ git init  //creation of the git repository
 
-$ git status
+$ git status //gives the status of the repository file
 On branch master
 
+Work Space to Staging Area 
+git add filename filename filename
 
-
-
+staging to repository
+ git commit -m 'initial message'
 
 
 
