@@ -205,6 +205,15 @@ python05@cab120 MINGW64 /
 $ start .
 //direct us to git folder location in computer Drive
 
+**git commands for initializing the file and status of he git**
+$ git init
+Initialized empty Git repository in C:/Users/TEMP/Desktop/PYHTON 15 DAYS/.git/
+
+$ git status
+On branch master
+
+
+
 
 
 
