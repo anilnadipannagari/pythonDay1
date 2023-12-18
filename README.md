@@ -217,7 +217,7 @@ git add filename filename filename
 staging to repository
  git commit -m 'initial message'
 
-
+git log // it provides info about who made the logins
 
 
 
